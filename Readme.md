@@ -2,6 +2,8 @@
 
 #### Export Octopress blog posts as JSON
 
+[![Build Status](https://travis-ci.org/ben-ng/kitten-js.png)](https://travis-ci.org/ben-ng/kitten-js)
+
 ## Usage
 
 ```
