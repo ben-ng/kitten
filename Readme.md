@@ -2,6 +2,8 @@
 
 #### Export Octopress blog posts as JSON
 
+[![Pusheen](https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/tumblr_m5mlt6a0EH1qhy6c9o1_400.gif)](http://pusheen.com)
+
 [![Build Status](https://travis-ci.org/ben-ng/kitten-js.png)](https://travis-ci.org/ben-ng/kitten-js)
 
 ## Usage
